@@ -12,10 +12,10 @@ import (
 
 	"context"
 
-	"github.com/graphql-go/graphql"
-	"github.com/graphql-go/graphql/gqlerrors"
-	"github.com/graphql-go/graphql/language/location"
-	"github.com/graphql-go/graphql/testutil"
+	"github.com/edinpeter/graphql"
+	"github.com/edinpeter/graphql/gqlerrors"
+	"github.com/edinpeter/graphql/language/location"
+	"github.com/edinpeter/graphql/testutil"
 	"github.com/graphql-go/handler"
 )
 

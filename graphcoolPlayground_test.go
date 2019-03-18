@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/graphql-go/graphql/testutil"
+	"github.com/edinpeter/graphql/testutil"
 	"github.com/graphql-go/handler"
 )
 
