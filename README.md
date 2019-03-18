@@ -3,6 +3,8 @@
 
 Golang HTTP.Handler for [graphl-go](https://github.com/edinpeter/graphql)
 
+***This fork was made to implement in-order mutation execution, which the reference repository does not.***
+
 ### Usage
 
 ```go
